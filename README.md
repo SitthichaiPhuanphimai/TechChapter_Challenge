@@ -20,7 +20,7 @@ Running the functions in main
 Running the test class
 
 - Open the terminal
-- Navigate to the project
+- Navigate to the test folder
   
       Cd tests
       Cd holidaycalendar.tests
