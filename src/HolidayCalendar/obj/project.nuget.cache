@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TCp5YEO34Iuf5Y6NGfqVgb2f8+jVDxQe3V4ckCVV6aYFU74/ufOevhhq2VGza7coLfFX6YLTA/Z5T5hyWxY6aQ==",
+  "success": true,
+  "projectFilePath": "/Users/sitthichai/Desktop/Code_projects/interns-challenge/src/HolidayCalendar/HolidayCalendar.csproj",
+  "expectedPackageFiles": [
+    "/Users/sitthichai/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

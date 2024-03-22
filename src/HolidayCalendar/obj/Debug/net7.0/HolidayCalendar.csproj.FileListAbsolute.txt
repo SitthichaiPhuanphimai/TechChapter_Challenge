@@ -1,0 +1,11 @@
+/Users/sitthichai/Desktop/Java Projects/interns-challenge/src/HolidayCalendar/bin/Debug/net7.0/HolidayCalendar.deps.json
+/Users/sitthichai/Desktop/Java Projects/interns-challenge/src/HolidayCalendar/bin/Debug/net7.0/HolidayCalendar.dll
+/Users/sitthichai/Desktop/Java Projects/interns-challenge/src/HolidayCalendar/bin/Debug/net7.0/HolidayCalendar.pdb
+/Users/sitthichai/Desktop/Java Projects/interns-challenge/src/HolidayCalendar/obj/Debug/net7.0/HolidayCalendar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sitthichai/Desktop/Java Projects/interns-challenge/src/HolidayCalendar/obj/Debug/net7.0/HolidayCalendar.AssemblyInfoInputs.cache
+/Users/sitthichai/Desktop/Java Projects/interns-challenge/src/HolidayCalendar/obj/Debug/net7.0/HolidayCalendar.AssemblyInfo.cs
+/Users/sitthichai/Desktop/Java Projects/interns-challenge/src/HolidayCalendar/obj/Debug/net7.0/HolidayCalendar.csproj.CoreCompileInputs.cache
+/Users/sitthichai/Desktop/Java Projects/interns-challenge/src/HolidayCalendar/obj/Debug/net7.0/HolidayCalendar.dll
+/Users/sitthichai/Desktop/Java Projects/interns-challenge/src/HolidayCalendar/obj/Debug/net7.0/refint/HolidayCalendar.dll
+/Users/sitthichai/Desktop/Java Projects/interns-challenge/src/HolidayCalendar/obj/Debug/net7.0/HolidayCalendar.pdb
+/Users/sitthichai/Desktop/Java Projects/interns-challenge/src/HolidayCalendar/obj/Debug/net7.0/ref/HolidayCalendar.dll

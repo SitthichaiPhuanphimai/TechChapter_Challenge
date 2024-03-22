@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sitthichai/Desktop/Code_projects/interns-challenge/tests/HolidayCalendar.Tests/HolidayCalendar.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/sitthichai/Desktop/Code_projects/interns-challenge/src/HolidayCalendar/HolidayCalendar.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sitthichai/Desktop/Code_projects/interns-challenge/src/HolidayCalendar/HolidayCalendar.csproj",
+        "projectName": "HolidayCalendar",
+        "projectPath": "/Users/sitthichai/Desktop/Code_projects/interns-challenge/src/HolidayCalendar/HolidayCalendar.csproj",
+        "packagesPath": "/Users/sitthichai/.nuget/packages/",
+        "outputPath": "/Users/sitthichai/Desktop/Code_projects/interns-challenge/src/HolidayCalendar/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sitthichai/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sitthichai/Desktop/Code_projects/interns-challenge/tests/HolidayCalendar.Tests/HolidayCalendar.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sitthichai/Desktop/Code_projects/interns-challenge/tests/HolidayCalendar.Tests/HolidayCalendar.Tests.csproj",
+        "projectName": "HolidayCalendar.Tests",
+        "projectPath": "/Users/sitthichai/Desktop/Code_projects/interns-challenge/tests/HolidayCalendar.Tests/HolidayCalendar.Tests.csproj",
+        "packagesPath": "/Users/sitthichai/.nuget/packages/",
+        "outputPath": "/Users/sitthichai/Desktop/Code_projects/interns-challenge/tests/HolidayCalendar.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sitthichai/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sitthichai/Desktop/Code_projects/interns-challenge/src/HolidayCalendar/HolidayCalendar.csproj": {
+                "projectPath": "/Users/sitthichai/Desktop/Code_projects/interns-challenge/src/HolidayCalendar/HolidayCalendar.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
